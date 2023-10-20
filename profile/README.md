@@ -1,8 +1,6 @@
 # Hi there 👋
 
 >## !!! HACKS !!!
->
-> <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvickykumar&color=blue&label=PROFILE+VIEWS&style=flat-square&color=orange" alt="imvickykumar999"/> </p>
 
 - ## Spamming [Server](https://github.com/antonkomarev/github-profile-views-counter#usage)
 
