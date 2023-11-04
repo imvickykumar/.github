@@ -1,8 +1,10 @@
-# Hi there 👋
+> # `Hi there 👋`
+>
+> ![image](https://github.com/imvickykumar/.github/assets/50515418/1c4865c1-f48c-469e-a387-05c23124e034)
 
->## !!! HACKS !!!
+<br>
 
-- ## Spamming [Server](https://github.com/antonkomarev/github-profile-views-counter#usage)
+- ## `Spamming` [`Server`](https://github.com/antonkomarev/github-profile-views-counter#usage)
 
 If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
 without spamming our server. Everybody knows that any counters could be faked.
